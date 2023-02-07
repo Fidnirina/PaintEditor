@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="WINDOWS-1252" standalone="no"?>
+<jardesc>
+    <jar path="Monome13/monome13.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/Monome13/src/main.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" mainClassHandleIdentifier="=Monome13/src&lt;{PrincipaleBase.java[PrincipaleBase" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="true">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <file path="/Monome13/.classpath"/>
+        <javaElement handleIdentifier="=Monome13/src"/>
+        <folder path="/Monome13/sidonie"/>
+        <file path="/Monome13/.project"/>
+        <file path="/Monome13/jgoodies-forms-1.8.0-sources.jar"/>
+        <folder path="/Monome13/images"/>
+    </selectedElements>
+</jardesc>
